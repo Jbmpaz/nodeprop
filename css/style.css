@@ -84,7 +84,7 @@ img{
 
 /*=======================BANNER=======================*/
 .banner{
-	background: url(../img/banner.jpg) no-repeat fixed;
+	background: url(../img/banner.jpg) no-repeat center center/cover;
 }
 .title{
 	width: 100%;
