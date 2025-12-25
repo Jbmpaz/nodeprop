@@ -87,14 +87,17 @@
           </p>
 	</footer>
 
-<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script>
-$(".btn-menu").click(function(){
-	$(".menu").show();
-});
-$(".btn-close").click(function(){
-	$(".menu").hide();
-});
+	let btnMenu = document.querySelector('.btn-menu')
+	let menu = document.querySelector('.menu')
+	let btnClose = document.querySelector('.btn-close')
+
+	btnMenu.addEventListener('click', () => {
+		menu.style.display = 'inline-block'
+	})
+	btnClose.addEventListener('click', () => {
+		menu.style.display = 'none'
+	})
 </script>
 
 
