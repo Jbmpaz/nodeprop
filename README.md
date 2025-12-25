@@ -32,10 +32,3 @@ Este repositório contém os códigos do projeto desenvolvido durante o **curso 
 Este repositório tem fins **educacionais**.  
 O código reflete o processo de aprendizado durante o curso.
 
----
-
-## 👤 Autor
-
-**Joel Batista**  
-💼 Desenvolvedor Front-end  
-🌐 GitHub: https://github.com/Jbmpaz
