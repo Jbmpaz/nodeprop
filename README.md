@@ -19,12 +19,6 @@ Este repositório contém os códigos do projeto desenvolvido durante o **curso 
 
 ---
 
-## 📂 Organização do Repositório
-
-Os arquivos estão organizados conforme o progresso das aulas, contendo:
-
----
-
 ## 🎯 Objetivo do Repositório
 
 - Aprender e praticar CSS Flexbox
